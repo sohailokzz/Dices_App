@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This is the third app that I developed in Flutter. 
+This is the third app that I developed in Flutter during my learning of Flutter Development. 
 
 A few resources to get you started if this is your first Flutter project:
 
